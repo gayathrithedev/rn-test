@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the tree 1`] = `
+<RCTSafeAreaView>
+  <RCTScrollView
+    contentInsetAdjustmentBehavior="automatic"
+  >
+    <View>
+      <View>
+        <Text
+          style={
+            {
+              "fontSize": 20,
+            }
+          }
+        >
+          Welcome home
+        </Text>
+      </View>
+    </View>
+  </RCTScrollView>
+</RCTSafeAreaView>
+`;
